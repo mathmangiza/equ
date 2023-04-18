@@ -26,8 +26,7 @@ float a3=a1;
 a1=(b2)/detc;
 b2=a3/detc;
 b1=-b1/detc;
-a2=-a2/detc;
-/*return 0;*/}
+a2=-a2/detc;}
 void sol(){
 if (e1){
 printf("two equations are the same equation! or there are no solution \n");
