@@ -30,7 +30,7 @@ a2=-a2/detc;
 /*return 0;*/}
 void sol(){
 if (e1){
-printf("two equations are the same equation !\n");
+printf("two equations are the same equation! or there are no solution \n");
 }else{
 y=(a2*c1)+(b2*c2);
 x=(a1*c1)+(b1*c2);
