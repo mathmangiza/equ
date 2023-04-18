@@ -1,2 +1,2 @@
 # equ
-### first degree equation in two variable slover -writ in lovely c- .
+### first degree equations in two variable slover -writen in lovely c- .
