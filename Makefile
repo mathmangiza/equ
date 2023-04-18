@@ -1,1 +1,1 @@
-default: array array2
+default: equa3.c
