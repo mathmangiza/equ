@@ -1,1 +1,1 @@
-default: equ3.c
+default: equ3
